@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8966438F5A231EF1E351CCD332C2CC9E40AD0490",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8966438F5A231EF1E351CCD332C2CC9E40AD0490" : 0,
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A9C7673F-70A9-4F5D-991D-22E554D3BC6C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8966438F5A231EF1E351CCD332C2CC9E40AD0490" : "RainMan",
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Stormy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Stormy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Mav3r1ck\/RainMan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8966438F5A231EF1E351CCD332C2CC9E40AD0490"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BuddyBuild\/BB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3239580941E345AB636F3B382D35AC2CB008F45"
+    }
+  ]
+}
